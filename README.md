@@ -1,3 +1,5 @@
+![GoStack PixelArt](https://i.imgur.com/PvS86IK.png)
+
 # Desafio: Conceitos do Node.js
 
 Primeiro desafio curso GoStack da Rocketseat
